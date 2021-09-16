@@ -1,6 +1,6 @@
 <h1> Hi there! 🤘🏻 </h1>
 Mac @ Noyo
-<p> (she/her/hers) </p>
+<p>(she/her/hers) </p>
 <p> Q: What does a baby computer call its father? </p>
 <p> A: DATA! </p>
 <p>
